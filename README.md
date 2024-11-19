@@ -22,22 +22,16 @@ The project focuses on:
 4. The results are presented in the browser.
 
 ## Installation and Usage
-1. **Install required dependencies**:
-   ```bash
-   pip install flask requests
-2. **Run the Flask App**:
-To run the Flask app, execute the following command:
-  ```bash
-  python app.py
-3. **Access the App**:
-To access the app, open your browser and navigate to:[http://127.0.0.1:5000](http://127.0.0.1:5000)
+1. **Install required dependencies**:  
+   `pip install flask requests`
+2. **Run the Flask App**: To run the Flask app, execute the following command:  
+   `python app.py`
+3. **Access the App**: To access the app, open your browser and navigate to: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
-## Documentation
+## Documentation  
+Learn more about the Jikan API: [Jikan API Documentation](https://jikan.docs.apiary.io)
 
-Learn more about the Jikan API: [Jikan API Documentation](https://docs.api.jikan.moe/)
-
-## License
-
+## License  
 This project is for educational purposes only.
 
 
